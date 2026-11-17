@@ -44,7 +44,7 @@ class TextExtension extends BaseTextExtension
         [
             ['Datenanalyse', 'liefert', 'Einblicke', 'in', 'Leistung', 'und', 'Markttrends.'],
             ['Ziele', 'werden', 'angepasst', 'um', 'mit', 'den', 'sich', 'verändernden', 'Kundenerwartungen', 'übereinzustimmen.'],
-            ['Regelmässige', 'Überprüfungen', 'ermöglichen', 'schnelle', 'Reaktionen', 'auf', 'aufkommende', 'Herausforderungen.'],
+            ['Regelmässige', 'Kontrollen', 'ermöglichen', 'schnelle', 'Reaktionen', 'auf', 'aufkommende', 'Herausforderungen.'],
             ['Entscheidungen', 'werden', 'von', 'genauen', 'Daten', 'und', 'klaren', 'Strategien', 'gesteuert.'],
             ['Laufende', 'Bewertungen', 'helfen', 'Ansätze', 'zu', 'verfeinern', 'und', 'nachhaltiges', 'Wachstum', 'zu', 'erzielen.'],
         ],
